@@ -1,12 +1,12 @@
 {
-  "name": "WTF: PWA",
-  "short_name": "WTF: PWA",
-  "theme_color": "#2D2241",
+  "name": "hydra-app",
+  "short_name": "hydra-app",
+  "theme_color": "#3767ad",
   "background_color": "#2D2241",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/wtf-webpack-starter/",
-  "start_url": "/wtf-webpack-starter/",
+  "scope": "/hydra-app/",
+  "start_url": "/hydra-app/",
   "icons": [
     {
       "src": "pwa/manifest-icon-192.png",
